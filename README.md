@@ -55,6 +55,3 @@ Value: `1` (disable) or deleted (enable)
 
 ---
 
-## 📜 License
-
-MIT License
