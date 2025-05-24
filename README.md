@@ -16,7 +16,7 @@ This repository contains two simple batch files to disable or enable Task Manage
 ### 1. Clone the repo or download the `.bat` files.
 
 ```bash
-git clone https://github.com/your-username/disable-taskmgr-cmd.git
+git clone https://github.com/amirreza-akbari/disable-taskmgr-cmd.git
 cd disable-taskmgr-cmd
 ```
 
